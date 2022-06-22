@@ -1,3 +1,3 @@
 # Rowing-machine
 Programed microcontroller (KL25Z) for sensory input and android application for GUI as well as the interface between them (UART and Bluetooth) to log the users’ physical activity in real time.
-Me main role was to program the machine completly in C, and to create the android app that 
+Me main role was to program the machine completly in C. I was in charge of the sensory systema the machine had to mesure the amount of distance was traveled by the user. To do this a Hall effect sensor was used and by making the microcontroller have hardaware and software interrupts; the objective was met. My other role was to create the android app with an integrated data base (google's firebase) so the user could operate the machine and have a record of his progress.
